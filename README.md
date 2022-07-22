@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kinjanko
-- 👀 I’m interested in PHP Code
+- 👋 Hi, I’m Yanko Georgiev
+- 👀 I’m interested in PHP,HTML, C++
 - 🌱 I’m currently learning PHP, HTML, Java script
 - 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me email: orak_eood@abv.bg
